@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.OuterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-01T11:41:25" hostname="yrl6cnqc7c-mac" time="0.202">
+  <properties/>
+  <testcase name="testCreateInner" classname="exercise.OuterTest" time="0.201"/>
+  <testcase name="testGetOuterX" classname="exercise.OuterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

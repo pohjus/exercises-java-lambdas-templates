@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.AppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-02-01T12:05:24" hostname="yrl6cnqc7c-mac" time="0.26">
+  <properties/>
+  <testcase name="testMethodReference" classname="exercise.AppTest" time="0.258"/>
+  <testcase name="testGetRandomMouseListener" classname="exercise.AppTest" time="0.0"/>
+  <testcase name="testGetRandomMammal" classname="exercise.AppTest" time="0.0"/>
+  <testcase name="testGetRandomSellable" classname="exercise.AppTest" time="0.001"/>
+  <testcase name="testGetRandomShape" classname="exercise.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

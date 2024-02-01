@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/shapes/Rectangle.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/shapes/Shape.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/animals/Mammal.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/animals/Cat.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/animals/Dog.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/gui/MyMouseListener.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/gui/MyWindow.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/App.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/sellablethings/Computer.java">
+</file>
+<file name="/Users/pohjus/Desktop/lambdas/exercises-lambdas-solutions/02/app/src/main/java/exercise/sellablethings/Sellable.java">
+</file>
+</checkstyle>

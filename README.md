@@ -1,1 +1,1 @@
-# exercises-java-lambdas-templates
+# exercise-interfaces
